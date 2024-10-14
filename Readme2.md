@@ -110,6 +110,8 @@ if __name__ == "__main__":
     print(f"Daily AWS Account Cost: ${daily_cost}")
     save_cost_to_file(daily_cost)
 ````
+![image](https://github.com/user-attachments/assets/6644a950-a0e9-4399-9efc-15bbdc480c26)
+
 ## Run Python Script
 ````
 python3 aws_daily_cost.py
